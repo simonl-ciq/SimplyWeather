@@ -1,0 +1,20 @@
+<strings>
+    <string id="AppName">Simply Weather</string>
+	<string id="C">windstill</string>
+	<string id="N">N</string>
+	<string id="NNE">NNO</string>
+	<string id="NE">NO</string>
+	<string id="ENE">ONO</string>
+	<string id="E">O</string>
+	<string id="ESE">OSO</string>
+	<string id="SE">SO</string>
+	<string id="SSE">SSO</string>
+	<string id="S">S</string>
+	<string id="SSW">SSW</string>
+	<string id="SW">SW</string>
+	<string id="WSW">WSW</string>
+	<string id="W">W</string>
+	<string id="WNW">WNW</string>
+	<string id="NW">NW</string>
+	<string id="NNW">NNW</string>
+</strings>
