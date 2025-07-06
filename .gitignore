@@ -1,0 +1,8 @@
+bin/
+icons-etc/
+*.fit
+*.txt
+*.csv
+*.xlsx
+*.doc
+*.docx
